@@ -1,6 +1,8 @@
 # Floral_Sales_Project
- Predicting Future Floral sales data
 
+![flowers](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/21abb11b-0243-48ce-8ca3-7b09ff3a1261)
+
+Predicting Future Floral sales data
 # Description
 
 The goal of this project is to help the owner of the floral shop to understand the trends and patterns in sales, and use a predictive machine learning model to make predictions for the future sales of the shop. This uses real data from a shop-owner , for the sake of privacy I will not use the actual name of the shop, but the data is from a fine floral shop in middle Tennennsee. 
