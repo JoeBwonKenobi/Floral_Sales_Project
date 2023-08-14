@@ -17,7 +17,7 @@ I downloaded the data sets and combined them together using SQL Lite. I then cle
 # Visualizations
 The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. Only Bloom Nation had certain information specific to the orders purchased through the shops wedsite, these are unfortunately innaccurate as they don't require the customer to fill out all of the available categories to place an order so a lot of the the data is just not there. The visualizations about () are only using data from Bloom Nation's sales, not the total sales of the store overall. There are many customers who purchase items in-store as walk-ins and do not have recorded date for occassion(other collumns).
 
-![Sheet 1](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/a204d0db-4c40-4703-b959-5c22a17b9c85)
+![Sheet 4](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/f58e6a22-e683-42e4-86cc-8fd893da9123)
 
 
 # Description of final model
