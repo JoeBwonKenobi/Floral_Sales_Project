@@ -31,7 +31,7 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 A reggression model made to make predictions
 
-[Payment Method by Year]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link))
+[Link Payment Method by Year]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 
 # Recommendations
