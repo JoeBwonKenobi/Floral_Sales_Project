@@ -26,11 +26,12 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 ## **Monthly Order Type Grand Total**
 
-This second visulization shows the order type distribution for each month
-# Description of final model
-
+This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
 ![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/2d56f9e4-221d-402e-97ff-9557773dc61e)
+
+
+
 
 
 
