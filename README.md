@@ -1,4 +1,4 @@
-# Floral_Sales_Project
+# Floral Sales Project
 
 ![flowers](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/21abb11b-0243-48ce-8ca3-7b09ff3a1261)
 
