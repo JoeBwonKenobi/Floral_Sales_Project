@@ -5,8 +5,6 @@
 Predicting Future Floral sales data
 # Description
 
-<a href="[https://www.example.com](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link)" target="_blank">Visit my website</a>
-
 The goal of this project is to help the owner of the floral shop to understand the trends and patterns in sales, and use a predictive machine learning model to make predictions for the future sales of the shop. This uses real data from a shop-owner , for the sake of privacy I will not use the actual name of the shop, but the data is from a fine floral shop in middle Tennennsee. 
 
 # Data 
@@ -33,7 +31,7 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 A reggression model made to make predictions
 
-[Link Text]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link)){:target="_blank" rel="noopener"}
+[Payment Method by Year]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 
 # Recommendations
