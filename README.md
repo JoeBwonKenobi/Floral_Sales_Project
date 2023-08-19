@@ -33,13 +33,8 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 A reggression model made to make predictions
 
-<<<<<<< HEAD
-[Link Text](https://public.tableau.com/app/profile/joseph.lardie/viz/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42){:target="_blank" rel="noopener"}
-=======
 [Link Text]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link)){:target="_blank" rel="noopener"}
 
-
->>>>>>> b94bc95377518a266e3f6420334a057ed8965bd3
 
 # Recommendations
 One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion and recipient to be entered to place an order. This way there would be alot more data to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns.
