@@ -20,7 +20,7 @@ The visualizations helped to identify the trends and patterns for sales througho
 ![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/10691d1c-885e-480f-b60b-f69ecaec0005)
 
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
-- 
+- March and April seem to consistantly be the slower months year over year.
 
 
 # Description of final model
