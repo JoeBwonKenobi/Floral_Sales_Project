@@ -12,7 +12,7 @@ The goal of this project is to help the owner of the floral shop to understand t
 The data was provided to me be the shop owner, who uses floranext and Bloom Nation as their sales operating systems. I was provided sales reports downloaded from these sites in csv format as the data i will be using. The Bloom Nation data set was limited in what it could provide as far as useful data relevant to our project goal because it does not require the customer to fill out every option availble to them when making a purchase order.
 
 # Methods
-I downloaded the data sets and combined them together using SQL Lite. I then cleaned the data, addressed the null values, and prepared the data for visualization and then pipeline construction to prepare it for modeling. I used a Random Forest reggression model to make predcitions based on the sales data I was provided with.
+I downloaded the data sets and combined them together using SQL Lite. I then cleaned the data, addressed the null values, and prepared the data for visualization and then pipeline construction to prepare it for modeling. I used Tableau for visualizing the data after cleaning it because Tableau hasso many chocies for making vivd, powerful visualizations. Then, I preprocessed the data and formated it to make sure it was ready for modeling. I tried several machine learning models, the best of which was a Random Forest reggression model to make predcitions based on the sales data I was provided with.
 
 # Visualizations
 
@@ -39,16 +39,17 @@ This second visulization shows the order type distribution for each month. This 
 - Credit cards are the most popular across every category, and cash seems most popular for taken and pick-up orders.
 
 # Description of final model
+
 A Random Forest reggression model made to make sales predictions.
-I tried several other models, but this one preformed the best of all of them
+I tried several other models, but this one preformed the best of all of them show a 
 
 [Link Text]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 
 # Recommendations
-One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion and recipient to be entered to place an order. This way there would be alot more data to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns.
+One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion and recipient to be entered to place an order. This way, there would be alot more specific data about product popularity to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns for waht products are most popular.
 
 # Limitaions & next steps
-This project was limited to the data I was provided, and my personal experience from working at the store for a short time to understand the inner workings of the store. There are many customers that purchase things from the store in-person. It is located in a rather rich part of town where alot of elderly people live. It is also next to a popular local coffee shop which brings in a decent amount of foot traffic. There is limited data for these sales for the () columns. The next steps are to show the shop owner my findings of the trends and patterns in sales so that he may optomize things like payroll during slow seasons, product inventory before and after busy months, which things sale the most fequenty in-store, and the most popular occassions for specific months of the year.
+This project was limited to the data I was provided, which was limited to only sales statistics because of the inconsistent website data. There are many customers that purchase things from the store in-person just by browsing throughout the store. It is located in a rather rich part of town where alot of elderly people live. It is also next to a popular local coffee shop which brings in a decent amount of foot traffic consistently during the week on fair weather days. The next steps are to show the shop owner my findings of the trends and patterns in sales so that he may optomize things like payroll during slow seasons, product inventory before and after busy months, what the most popular order methods and types are, and the most profitable months for specific quarters of the year.
 
 # For further information
