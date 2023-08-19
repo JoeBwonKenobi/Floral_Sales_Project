@@ -15,7 +15,7 @@ The data was provided to me be the shop owner, who uses floranext and Bloom Nati
 I downloaded the data sets and combined them together using SQL Lite. I then cleaned the data, addressed the null values, and prepared the data for visualization and then pipeline construction to prepare it for modeling. I used a Random Forest reggression model to make predcitions based on the sales data I was provided with.
 
 # Visualizations
-The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year.
+The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
 
 ![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/10691d1c-885e-480f-b60b-f69ecaec0005)
 
