@@ -5,6 +5,8 @@
 Predicting Future Floral sales data
 # Description
 
+<a href="[https://www.example.com](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link)" target="_blank">Visit my website</a>
+
 The goal of this project is to help the owner of the floral shop to understand the trends and patterns in sales, and use a predictive machine learning model to make predictions for the future sales of the shop. This uses real data from a shop-owner , for the sake of privacy I will not use the actual name of the shop, but the data is from a fine floral shop in middle Tennennsee. 
 
 # Data 
@@ -31,7 +33,13 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 A reggression model made to make predictions
 
+<<<<<<< HEAD
 [Link Text](https://public.tableau.com/app/profile/joseph.lardie/viz/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42){:target="_blank" rel="noopener"}
+=======
+[Link Text]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link)){:target="_blank" rel="noopener"}
+
+
+>>>>>>> b94bc95377518a266e3f6420334a057ed8965bd3
 
 # Recommendations
 One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion and recipient to be entered to place an order. This way there would be alot more data to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns.
