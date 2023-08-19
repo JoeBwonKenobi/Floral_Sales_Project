@@ -30,13 +30,17 @@ This second visulization shows the order type distribution for each month. This 
 
 ![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/2d56f9e4-221d-402e-97ff-9557773dc61e)
 
+## **Yearly Total for Payment Methods and Order Types**
+ This shows a comparison of the different payment methods customers used to pay for the different order types.
 
+![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/31086fff-c9b2-428a-b820-2c4fb394c7ca)
 
-
-
+- As exspected, most customers use a creditcard or the website for a delivery and pickup.
+- Credit cards are the most popular across every category, and cash seems most popular for taken and pick-up orders.
 
 # Description of final model
-A reggression model made to make predictions
+A Random Forest reggression model made to make sales predictions.
+I tried several other models, but this one preformed the best of all of them
 
 [Link Text]([URL](https://public.tableau.com/views/Floral_Data_Visualizations-paymentmethodbyyear/Sheet42?:language=en-US&:display_count=n&:origin=viz_share_link))
 
