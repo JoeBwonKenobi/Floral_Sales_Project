@@ -50,5 +50,3 @@ One recomendation I have for the shop owner would be to make an modification to 
 
 # Limitaions & next steps
 This project was limited to the data I was provided, which was limited to only sales statistics because of the inconsistent website data. There are many customers that purchase things from the store in-person just by browsing throughout the store. It is located in a rather rich part of town where alot of elderly people live. It is also next to a popular local coffee shop which brings in a decent amount of foot traffic consistently during the week on fair weather days. The next steps are to show the shop owner my findings of the trends and patterns in sales so that he may optomize things like payroll during slow seasons, product inventory before and after busy months, what the most popular order methods and types are, and the most profitable months for specific quarters of the year.
-
-# For further information
