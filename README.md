@@ -1,7 +1,8 @@
 # Floral Sales Project
 
 
-![flowers](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/21abb11b-0243-48ce-8ca3-7b09ff3a1261)
+![Screenshot 2023-08-30 203845](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/39c7e26f-8f99-4ea3-8e80-e9305851afa2)
+
 
 
 Predicting Future Floral sales data
