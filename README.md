@@ -1,6 +1,8 @@
 # Floral Sales Project
 
+
 ![flowers](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/21abb11b-0243-48ce-8ca3-7b09ff3a1261)
+
 
 Predicting Future Floral sales data
 # Description
@@ -19,6 +21,7 @@ I downloaded the data sets and combined them together using SQL Lite. I then cle
 ## **Quarterly Product Total by Year**
 The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
 
+
 ![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/10691d1c-885e-480f-b60b-f69ecaec0005)
 
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
@@ -28,10 +31,12 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
+
 ![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/2d56f9e4-221d-402e-97ff-9557773dc61e)
 
 ## **Yearly Total for Payment Methods and Order Types**
  This shows a comparison of the different payment methods customers used to pay for the different order types.
+
 
 ![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/31086fff-c9b2-428a-b820-2c4fb394c7ca)
 
