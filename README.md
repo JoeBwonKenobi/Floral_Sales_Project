@@ -3,7 +3,7 @@
 
 ![Screenshot 2023-08-30 203845](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/39c7e26f-8f99-4ea3-8e80-e9305851afa2)
 
-
+*I do not own this photo*
 
 Predicting Future Floral sales data
 # Description
