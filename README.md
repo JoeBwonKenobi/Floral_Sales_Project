@@ -52,7 +52,7 @@ This second visulization shows the order type distribution for each month. This 
 
 ## **A Random Forest reggression model made to make sales predictions.**
 
-The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, its predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the show owner.
+I built, ran, and tuned hyperparameters for a number of different models, but the best preforming model was the Random Forest Regressor. The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, its predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the show owner.
 
 
 # Recommendations
