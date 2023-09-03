@@ -1,9 +1,15 @@
 # Floral Sales Project
 
-![flowers](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/21abb11b-0243-48ce-8ca3-7b09ff3a1261)
 
-Predicting Future Floral sales data
-# Description
+![Screenshot 2023-08-30 203845](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/39c7e26f-8f99-4ea3-8e80-e9305851afa2)
+
+*I do not own this photo*
+
+# **Project Objective**
+
+Identify trends and predict future floral sales data.
+
+# Description of Project
 
 The goal of this project is to help the owner of the floral shop to understand the trends and patterns in sales, and use a predictive machine learning model to make predictions for the future sales of the shop. This uses real data from a shop-owner , for the sake of privacy I will not use the actual name of the shop, but the data is from a fine floral shop in middle Tennennsee. 
 
@@ -19,7 +25,9 @@ I downloaded the data sets and combined them together using SQL Lite. I then cle
 ## **Quarterly Product Total by Year**
 The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
 
-![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/10691d1c-885e-480f-b60b-f69ecaec0005)
+
+![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/fa029b94-0751-41ac-8aba-508b47b824c3)
+
 
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
 - March and April seem to consistantly be the slower months year over year.
@@ -28,12 +36,14 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
-![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/2d56f9e4-221d-402e-97ff-9557773dc61e)
+![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/6e54c648-4034-4c71-91a0-21e769d3d3ca)
+
 
 ## **Yearly Total for Payment Methods and Order Types**
  This shows a comparison of the different payment methods customers used to pay for the different order types.
 
-![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/31086fff-c9b2-428a-b820-2c4fb394c7ca)
+![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/735fe6e7-88e5-46c0-90d0-18febaa6aec4)
+
 
 - As exspected, most customers use a creditcard or the website for a delivery and pickup.
 - Credit cards are the most popular across every category, and cash seems most popular for taken and pick-up orders.
@@ -42,13 +52,11 @@ This second visulization shows the order type distribution for each month. This 
 
 ## **A Random Forest reggression model made to make sales predictions.**
 
-The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, its predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the show owner.
+I built, ran, and tuned hyperparameters for a number of different models, but the best preforming model was the Random Forest Regressor. The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, its predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the shop owner.
 
 
 # Recommendations
-One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion and recipient to be entered to place an order. This way, there would be alot more specific data about product popularity to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns for waht products are most popular.
+One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion, product description, and recipient to be entered to place an order. This way, there would be alot more specific data about product popularity to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns for waht products are most popular.
 
 # Limitaions & next steps
 This project was limited to the data I was provided, which was limited to only sales statistics because of the inconsistent website data. There are many customers that purchase things from the store in-person just by browsing throughout the store. It is located in a rather rich part of town where alot of elderly people live. It is also next to a popular local coffee shop which brings in a decent amount of foot traffic consistently during the week on fair weather days. The next steps are to show the shop owner my findings of the trends and patterns in sales so that he may optomize things like payroll during slow seasons, product inventory before and after busy months, what the most popular order methods and types are, and the most profitable months for specific quarters of the year.
-
-# For further information
