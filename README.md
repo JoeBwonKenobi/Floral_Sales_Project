@@ -11,7 +11,7 @@ Identify trends and predict future floral sales data.
 
 # Description of Project
 
-The goal of this project is to help the owner of the floral shop to understand the trends and patterns in sales, and use a predictive machine learning model to make predictions for the future sales of the shop. This uses real data from a shop-owner , for the sake of privacy I will not use the actual name of the shop, but the data is from a fine floral shop in middle Tennennsee. 
+The goal of this project is to help the owner of the floral shop to understand the trends and patterns in sales, and use a predictive machine learning model to make predictions for the future sales of the shop. This uses real data from a fine floral shop owner. For the sake of privacy I will not use the actual name of the shop. 
 
 # Data 
 
