@@ -54,6 +54,7 @@ This second visulization shows the order type distribution for each month. This 
 - December is consistantly the highest selling month (due mostly to christmas and other winter holidays) followed by May (Mother's Day).
 - Months that have major holidays (Valentine's day, Mother's Day, and Christmas) have the biggest spike in sales year over year.
 - The most popular payment method overall is credit cards for all orders including orders made through the website.
+- The most popular 
 - Slower months are consistantly January, April, June, and July year over year.
 
 # Description of final model
