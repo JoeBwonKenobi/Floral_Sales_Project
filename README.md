@@ -30,7 +30,7 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
-- March and April seem to consistantly be the slower months year over year.
+- March, April, June and July seem to consistantly be the slower months year over year.
 
 ## **Monthly Order Type Grand Total**
 
