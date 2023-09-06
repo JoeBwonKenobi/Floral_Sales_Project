@@ -48,6 +48,14 @@ This second visulization shows the order type distribution for each month. This 
 - As exspected, most customers use a creditcard or the website for a delivery and pickup.
 - Credit cards are the most popular across every category, and cash seems most popular for taken and pick-up orders.
 
+# **Summary of trends and patterns:**
+
+- The 4th quarter consistantly has the most sales year over year, due to a consistant spike in sales for the holiday season.
+- December is consistantly the highest selling month (due mostly to christmas and other winter holidays).
+- Months that have major holidays (Valentine's day, Mother's Day, and Christmas) have the biggest spike in sales year over year.
+- The most popular payment method overall is credit cards for all orders.
+- Slower months are consistantly January, April, June, and July year over year.
+
 # Description of final model
 
 ## **A Random Forest reggression model made to make sales predictions.**
