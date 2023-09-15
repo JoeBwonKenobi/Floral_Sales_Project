@@ -39,7 +39,7 @@ This second visulization shows the order type distribution for each month. This 
 
 ![Monthly Aggregation of Order Method Grand Total Phone vs  Walk in](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/e1bcf781-99c0-41f0-8230-9d010405c325)
 
-- There are noticable spikes in the walk-in traffic for November and December yearly, obvisously for the holidays.
+- There are noticable spikes in the walk-in traffic for November and December yearly, obvisously due to the holidays.
 - There are overall way more phone orders than walk-in traffic regaurdless of the time of year.
 - Florist-to-florist category was a recent addition as an order option which is why we see almost no representation on the visuaslization.
 
