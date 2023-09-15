@@ -33,7 +33,7 @@ These visualizations helped to identify the trends and patterns for sales throug
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
 - March, April, June and July seem to consistantly be the slower months year over year.
 
-## **Monthly Order Type Grand Total**
+## **Monthly Order Method Grand Total**
 
 This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
