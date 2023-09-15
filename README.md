@@ -69,6 +69,7 @@ This shows an average grand total per order monthly so that the show owner can s
 - The 4th quarter consistantly has the most sales year over year, due to a consistant spike in sales for the holiday season.
 - December is consistantly the highest selling month (due mostly to christmas and other winter holidays) followed by May (Mother's Day).
 - Months that have major holidays (Valentine's day, Mother's Day, and Christmas) have the biggest spike in sales year over year.
+- The most popular order method is by phone, followed by Walk-in. This is because most customers want to talk to a designer about customizing their arangement.
 - The most popular payment method overall is credit cards for all orders including orders made through the website.
 - The most popular Order type is delivery, followed by taken (Products taken out of the store by walk-in customers), and then pick-up (customer picks up in-store, usually at a later date).
 - Slower months are consistantly January, April, June, and July year over year.
