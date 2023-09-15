@@ -36,14 +36,16 @@ The visualizations helped to identify the trends and patterns for sales througho
 
 This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
-![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/6e54c648-4034-4c71-91a0-21e769d3d3ca)
+![Monthly Aggregation of Order Method Grand Total Phone vs  Walk in](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/e1bcf781-99c0-41f0-8230-9d010405c325)
+
 
 
 ## **Yearly Total for Payment Methods and Order Types**
  This shows a comparison of the different payment methods customers used to pay for the different order types.
 
 
-![Monthly Aggregation of Order Method Grand Total Phone vs  Walk in](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/f4a1d465-2d6c-47f1-97ff-45c730b955bd)
+![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/66fde718-8c8a-463e-86cd-7c7df9ebf4fe)
+
 
 
 - As exspected, most customers use a creditcard or the website for a delivery and pickup.
