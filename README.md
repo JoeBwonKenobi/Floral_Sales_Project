@@ -42,7 +42,8 @@ This second visulization shows the order type distribution for each month. This 
 ## **Yearly Total for Payment Methods and Order Types**
  This shows a comparison of the different payment methods customers used to pay for the different order types.
 
-![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/735fe6e7-88e5-46c0-90d0-18febaa6aec4)
+
+![Monthly Aggregation of Order Method Grand Total Phone vs  Walk in](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/f4a1d465-2d6c-47f1-97ff-45c730b955bd)
 
 
 - As exspected, most customers use a creditcard or the website for a delivery and pickup.
