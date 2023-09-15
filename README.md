@@ -35,7 +35,7 @@ These visualizations helped to identify the trends and patterns for sales throug
 
 ## **Monthly Order Method Grand Total**
 
-This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
+This second visulization shows the order method distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
 ![Monthly Aggregation of Order Method Grand Total Phone vs  Walk in](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/e1bcf781-99c0-41f0-8230-9d010405c325)
 
