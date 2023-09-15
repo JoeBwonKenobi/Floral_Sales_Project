@@ -54,6 +54,14 @@ This second visulization shows the order method distribution for each month. Thi
 - As exspected, most customers use a creditcard or the website for a delivery and pickup.
 - Credit cards are the most popular across every category, and cash seems most popular for taken and pick-up orders.
 
+## **Monthy Order Type Average Total Per Order**
+
+This shows an average grand total per order monthly so that the show owner can see trends in the average amount a customer spends depending on The Order Type
+
+![Monthly Order Type Average Total Per order](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/6245a9ee-a313-4f53-84e4-7c71444acecc)
+
+
+
 # **Summary of trends and patterns:**
 
 - The 4th quarter consistantly has the most sales year over year, due to a consistant spike in sales for the holiday season.
