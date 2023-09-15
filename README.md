@@ -60,7 +60,9 @@ This shows an average grand total per order monthly so that the show owner can s
 
 ![Monthly Order Type Average Total Per order](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/6245a9ee-a313-4f53-84e4-7c71444acecc)
 
-
+- The average for wire-out is so high due to the fact that it represents the shop owner buying flowers in-bulk for another floral shop. They are normal large orders because there are frequently discounted rates on a higher quantity of flowers.
+- The lowest average total per order overall is taken which represents a customer walking in and taking the purchased prodcuts out of the store themselves.
+- This compairson provides helpful insight that the owner can use to construct pricing strategies, optomize inventory, gain operational efficiency, and serve as a guide for scheduling promotional efforts.
 
 # **Summary of trends and patterns:**
 
