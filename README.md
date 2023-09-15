@@ -23,10 +23,11 @@ I downloaded the data sets and combined them together using SQL Lite. I then cle
 # Visualizations
 
 ## **Quarterly Product Total by Year**
-The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
+These visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
 
 
-![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/fa029b94-0751-41ac-8aba-508b47b824c3)
+![New_Yearly_Totals](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/452cded1-41ef-4832-863f-51852d7e049f)
+
 
 
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
