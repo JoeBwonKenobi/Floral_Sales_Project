@@ -60,7 +60,7 @@ This second visulization shows the order method distribution for each month. Thi
 - December is consistantly the highest selling month (due mostly to christmas and other winter holidays) followed by May (Mother's Day).
 - Months that have major holidays (Valentine's day, Mother's Day, and Christmas) have the biggest spike in sales year over year.
 - The most popular payment method overall is credit cards for all orders including orders made through the website.
-- The most popular Order type is delivery, followed by taken (Deliveries taken by 3rd party driver), and then pick-up (customer picks up in-store).
+- The most popular Order type is delivery, followed by taken (Products taken out of the store by walk-in customers), and then pick-up (customer picks up in-store, usually at a later date).
 - Slower months are consistantly January, April, June, and July year over year.
 
 # Description of final model
