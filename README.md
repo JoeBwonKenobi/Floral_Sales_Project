@@ -41,7 +41,7 @@ This second visulization shows the order method distribution for each month. Thi
 
 - There are noticable spikes in the walk-in traffic for November and December yearly, obvisously due to the holidays.
 - There are overall way more phone orders than walk-in traffic regaurdless of the time of year.
-- Florist-to-florist category was a recent addition as an order option which is why we see almost no representation on the visuaslization.
+- Florist-to-florist category was a recent addition as an order option which is why we see almost no representation on the visualization.
 
 ## **Yearly Total for Payment Methods and Order Types**
  This shows a comparison of the different payment methods customers used to pay for the different order types.
