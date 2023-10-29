@@ -23,40 +23,66 @@ I downloaded the data sets and combined them together using SQL Lite. I then cle
 # Visualizations
 
 ## **Quarterly Product Total by Year**
-The visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of whcich helps us to see the trends in sales by Quarterly for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
+These visualizations helped to identify the trends and patterns for sales throughout the different months of the year for five and a half years. The first of which helps us to see the trends in sales by Quarterly segments for each year organized by the order date. This can help the shop owners to identify what months out of the year they may need temporay help with arrangements and deliveries, or for slower months cut back on ordering extra stock.
 
 
-![Quarterly Product Total through the years](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/fa029b94-0751-41ac-8aba-508b47b824c3)
+![New_Yearly_Totals](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/452cded1-41ef-4832-863f-51852d7e049f)
+
 
 
 - As expected, the months that have major holidays (Christmas, Valentine's day, and mother's day) are the busiest year over year.
 - March, April, June and July seem to consistantly be the slower months year over year.
 
-## **Monthly Order Type Grand Total**
+## **Monthly Order Method Grand Total**
 
-This second visulization shows the order type distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
+This second visulization shows the order method distribution for each month. This can help the owner's identify what months are more popular for walk-ins and deliveries.
 
-![Monthly aggregation of Order Type Grand Total](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/6e54c648-4034-4c71-91a0-21e769d3d3ca)
+![Monthly Aggregation of Order Method Grand Total Phone vs  Walk in](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/e1bcf781-99c0-41f0-8230-9d010405c325)
 
+- There are noticable spikes in the walk-in traffic for November and December yearly, obvisously due to the holidays.
+- There are overall way more phone orders than walk-in traffic regaurdless of the time of year.
+- Florist-to-florist category was a recent addition as an order option which is why we see almost no representation on the visualization.
 
 ## **Yearly Total for Payment Methods and Order Types**
  This shows a comparison of the different payment methods customers used to pay for the different order types.
 
-![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/735fe6e7-88e5-46c0-90d0-18febaa6aec4)
+
+![Yearly Total for Payment Methods and Order Types](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/66fde718-8c8a-463e-86cd-7c7df9ebf4fe)
+
 
 
 - As exspected, most customers use a creditcard or the website for a delivery and pickup.
 - Credit cards are the most popular across every category, and cash seems most popular for taken and pick-up orders.
 
+## **Monthy Order Type Average Total Per Order**
+
+This shows an average grand total per order monthly so that the show owner can see trends in the average amount a customer spends depending on The Order Type
+
+![Monthly Order Type Average Total Per order](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/6245a9ee-a313-4f53-84e4-7c71444acecc)
+
+- The average for wire-out is so high due to the fact that it represents the shop owner buying flowers in-bulk for another floral shop. They are normal large orders because there are frequently discounted rates on a higher quantity of flowers.
+- The lowest average total per order overall is taken which represents a customer walking in and taking the purchased prodcuts out of the store themselves.
+- This compairson provides helpful insight that the owner can use to construct pricing strategies, optomize inventory, gain operational efficiency, and serve as a guide for scheduling promotional efforts.
+
+# **Summary of trends and patterns:**
+
+- The 4th quarter consistantly has the most sales year over year, due to a consistant spike in sales for the holiday season.
+- December is consistantly the highest selling month (due mostly to christmas and other winter holidays) followed by May (Mother's Day).
+- Months that have major holidays (Valentine's day, Mother's Day, and Christmas) have the biggest spike in sales year over year.
+- The most popular order method is by phone, followed by Walk-in. This is because most customers want to talk to a designer about customizing their arangement.
+- The most popular payment method overall is credit cards for all orders including orders made through the website.
+- The most popular Order type is delivery, followed by taken (Products taken out of the store by walk-in customers), and then pick-up (customer picks up in-store, usually at a later date).
+- Slower months are consistantly January, April, June, and July year over year.
+
 # Description of final model
 
 ## **A Random Forest reggression model made to make sales predictions.**
 
-I built, ran, and tuned hyperparameters for a number of different models, but the best preforming model was the Random Forest Regressor. The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, its predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the shop owner.
+I built, ran, and tuned hyperparameters for a number of different models, but the best preforming model was the Random Forest Regressor. The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, it's predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the shop owner.
 
 
 # Recommendations
-One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion, product description, and recipient to be entered to place an order. This way, there would be alot more specific data about product popularity to analyze that gives insight on the most popular ocassion, and who the most common recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns for waht products are most popular.
+One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion, product description, and recipient to be entered to place an order. This way, there would be alot more specific data about product popularity to analyze that gives insight on the most popular ocassion, and who the most common senders and recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns for what products are most popular for each time of the year and what is not selling. In addition, because alot of the volume is associated with floral arrangements, finding a method to keep track of which flowers were used for which arrangements would provide insight as to which flowers were used more often at certain times of the year.
 
 # Limitaions & next steps
-This project was limited to the data I was provided, which was limited to only sales statistics because of the inconsistent website data. There are many customers that purchase things from the store in-person just by browsing throughout the store. It is located in a rather rich part of town where alot of elderly people live. It is also next to a popular local coffee shop which brings in a decent amount of foot traffic consistently during the week on fair weather days. The next steps are to show the shop owner my findings of the trends and patterns in sales so that he may optomize things like payroll during slow seasons, product inventory before and after busy months, what the most popular order methods and types are, and the most profitable months for specific quarters of the year.
+This project was limited to the data I was provided, which was limited to only sales statistics because of the inconsistent website data. There are many customers that purchase things from the store in-person just by browsing throughout the store, there are also many customers who have never been to the store but repeatedly order from the website. It is located in a rather rich part of town where alot of elderly people live. It is also next to a popular local coffee shop which brings in a decent amount of foot traffic consistently during the week on fair weather days. The shop is generally closed on sundays (There are rare exceptions) and usually open from 9:00 am - 4:30 pm; but these hours are subject to change via the owner's descresion. The patterns and trends I've help to bring to light, may help the owner to make descisions about opening and closing times  and wether or not to open on sunday depending on the time of year or schedule of holidays in a given year. The next steps are to show the shop owner my findings of the trends and patterns in sales so that he may optomize things like payroll during slow seasons, product inventory before and after busy months, what the most popular order methods and types are, scheduling hours of operations for specific times of the year and the most profitable months for specific quarters of the year.
