@@ -80,6 +80,10 @@ This shows an average grand total per order monthly so that the show owner can s
 
 I built, ran, and tuned hyperparameters for a number of different models, but the best preforming model was the Random Forest Regressor. The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, it's predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the shop owner.
 
+Below is a look at the model's performance and how the coefficient of determination plays a critical role in telling us how well the model actually performed at predicting sales.
+
+![Random_Forest_R2_Score](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/c57b22e7-1bad-4947-ae44-ff92eb1d0d5d)
+
 
 # Recommendations
 One recomendation I have for the shop owner would be to make an modification to the website that requires certain information like ocassion, product description, and recipient to be entered to place an order. This way, there would be alot more specific data about product popularity to analyze that gives insight on the most popular ocassion, and who the most common senders and recipients are. This would have to be a conversation between the shop owner and the company that the website is run through. If accomplished, this could make a major impact on the amount of usable data available and provide much more insight about specific trends and patterns for what products are most popular for each time of the year and what is not selling. In addition, because alot of the volume is associated with floral arrangements, finding a method to keep track of which flowers were used for which arrangements would provide insight as to which flowers were used more often at certain times of the year.
