@@ -78,7 +78,11 @@ This shows an average grand total per order monthly so that the show owner can s
 
 ## **A Random Forest reggression model made to make sales predictions.**
 
-I built, ran, and tuned hyperparameters for a number of different models, but the best preforming model was the Random Forest Regressor. The Random Forest Regressor model performed strongly, explaining 91.2% of the variation in the test data. On average, it's predictions were off by approximately $12.7, and the largest prediction error was around $51.8. This suggests the model's overall accuracy, with room for minor enhancements to minimize prediction discrepancies. There are many variables to consider when predicting sales, but this model is using only the sales data I was provided from the shop owner.
+Throughout the project, I diligently constructed, executed, and fine-tuned a range of diverse models. This model demonstrated remarkable performance by effectively explaining 91.2% of the variance present in the test data. This high R-squared score reflects the model's proficiency in capturing and interpreting the underlying patterns within the test dataset. On average, its predictions deviated by a mere $12.7 from the actual values, and even the largest prediction error was limited to just $51.8. This demonstrates the model's remarkable overall accuracy, with room for minor refinements to further minimize prediction discrepancies. Notably, it's important to emphasize that the model exclusively utilizes the sales data provided by the shop owner.
+
+Diving deeper into the model's performance, it's crucial to highlight the role of the coefficient of determination (R-squared) in assessing how effectively the model predicts sales. R-squared serves as a vital metric, revealing the model's capability to elucidate the variability in sales data. In this context, the 91.2% R-squared value signifies that the model comprehensively captures 91.2% of the variation in sales, illustrating its potency in explaining and forecasting sales trends. This underscores the model's proficiency in providing valuable insights and making precise predictions, substantiating its practical applicability for real-world business scenarios.
+
+![Random_Forest_R2_Score](https://github.com/JoeBwonKenobi/Floral_Sales_Project/assets/117705408/c57b22e7-1bad-4947-ae44-ff92eb1d0d5d)
 
 
 # Recommendations
