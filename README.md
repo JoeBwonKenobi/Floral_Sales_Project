@@ -15,7 +15,7 @@ The goal of this project is to help the owner of the floral shop to understand t
 
 # Data 
 
-The data was provided to me be the shop owner, who uses floranext and Bloom Nation as their sales operating systems. I was provided sales reports downloaded from these sites in csv format as the data i will be using. The Bloom Nation data set was limited in what it could provide as far as useful data relevant to our project goal because it does not require the customer to fill out every option availble to them when making a purchase order.
+The data was provided to me by the shop owner, who uses floranext and Bloom Nation as their sales operating systems. I was provided sales reports downloaded from these sites in csv format as the data i will be using. The Bloom Nation data set was limited in what it could provide as far as useful data relevant to our project goal because it does not require the customer to fill out every option availble to them when making a purchase order.
 
 # Methods
 I downloaded the data sets and combined them together using SQL Lite. I then cleaned the data, addressed the null values, and prepared the data for visualization and then pipeline construction to prepare it for modeling. I used Tableau for visualizing the data after cleaning it because Tableau hasso many chocies for making vivd, powerful visualizations. Then, I preprocessed the data and formated it to make sure it was ready for modeling. I tried several machine learning models, the best of which was a Random Forest reggression model to make predcitions based on the sales data I was provided with.
