@@ -5,7 +5,7 @@
 
 *I do not own this photo*
 
-# **Project Objective**
+# **Objective**
 
 Identify trends and predict future floral sales data.
 
